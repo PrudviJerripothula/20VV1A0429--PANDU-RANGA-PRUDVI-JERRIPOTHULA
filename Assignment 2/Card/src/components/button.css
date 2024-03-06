@@ -1,0 +1,14 @@
+.card-btn{
+    text-align: center;
+    width: 90%;
+    border-radius: 5px;
+    padding: 0.5rem 1rem;
+    background-color: #2563eb;
+    color: white;
+    text-decoration: none;
+    margin: 0.5rem;
+    transition: 0.2s;
+}
+.card-btn:hover{
+    background: rgb(253, 2, 2);
+}
