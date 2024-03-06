@@ -1,0 +1,8 @@
+.App{
+  display: flex;
+  flex-wrap:wrap;
+  align-items:flex-start;
+  justify-content:space-around;
+  height: 100vh;
+  background-color: #faf9f6;
+}
